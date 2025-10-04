@@ -77,7 +77,7 @@ const Events = () => {
       <Navbar />
       <div className="container mx-auto px-4 py-12">
         <div className="mb-12">
-          <h1 className="text-5xl font-bold mb-4 gradient-hero bg-clip-text text-transparent">
+          <h1 className="text-5xl font-bold mb-4  bg-clip-text text-slate-300">
             Upcoming Events
           </h1>
           <p className="text-xl text-muted-foreground">

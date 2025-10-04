@@ -15,7 +15,7 @@ const Index = () => {
         <div className="container mx-auto px-4 py-24 relative">
           <div className="max-w-4xl mx-auto text-center">
             <h1 className="text-6xl md:text-7xl font-bold mb-6 animate-fade-in">
-              Welcome to <span className="gradient-hero bg-clip-text text-transparent">NEW ERA</span>
+              Welcome to <span className=" bg-clip-text text-slate-400">NEW ERA</span>
             </h1>
             <p className="text-xl md:text-2xl text-muted-foreground mb-8 animate-fade-in">
               Your platform for events, assignments, and achievement. Join our community of learners and achievers.
@@ -39,7 +39,7 @@ const Index = () => {
       {/* Features Grid */}
       <section className="container mx-auto px-4 py-16">
         <h2 className="text-4xl font-bold text-center mb-12">
-          Everything You Need to <span className="gradient-hero bg-clip-text text-transparent">Excel</span>
+          Everything You Need to <span className=" bg-clip-text text-slate-400">Excel</span>
         </h2>
         <div className="grid md:grid-cols-3 gap-6 max-w-6xl mx-auto">
           <Card className="gradient-card border-border/50 hover:shadow-glow transition-smooth group">
@@ -89,7 +89,7 @@ const Index = () => {
               <div className="grid md:grid-cols-2 gap-8 items-center">
                 <div>
                   <h2 className="text-4xl font-bold mb-4">
-                    Earn While You <span className="gradient-hero bg-clip-text text-transparent">Learn</span>
+                    Earn While You <span className=" bg-clip-text text-slate-400">Learn</span>
                   </h2>
                   <p className="text-lg text-muted-foreground mb-6">
                     Complete assignments, attend events, and unlock achievements to level up your profile. Build your streak and compete for the top spot!
@@ -141,7 +141,7 @@ const Index = () => {
       <section className="container mx-auto px-4 py-16">
         <div className="max-w-3xl mx-auto text-center">
           <h2 className="text-5xl font-bold mb-6">
-            Ready to Start Your <span className="gradient-hero bg-clip-text text-transparent">Journey</span>?
+            Ready to Start Your <span className=" bg-clip-text text-slate-400">Journey</span>?
           </h2>
           <p className="text-xl text-muted-foreground mb-8">
             Join thousands of learners achieving their certification goals with NEW ERA.
